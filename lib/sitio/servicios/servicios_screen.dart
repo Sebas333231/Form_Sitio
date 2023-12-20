@@ -48,6 +48,201 @@ class _ServiciosState extends State<Servicios> {
         name: 'Chimenea',
         icono: '../images/servicios/chimenea.png',
         isSelected: false),
+    ItemModel(
+        name: "Estacionamiento",
+        icono: "../images/servicios/estacionamiento.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Buena iluminacion",
+        icono: "../images/servicios/iluminacion.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Area para trabajar",
+        icono: "../images/servicios/trabajo.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Articulos de oficina",
+        icono: "../images/servicios/articulos.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Toalla por huésped",
+        icono: "../images/servicios/toalla.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Una almohada por huésped",
+        icono: "../images/servicios/almohada.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Sabanas para cada camas",
+        icono: "../images/servicios/sabana.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Productos de limpieza",
+        icono: "../images/servicios/limpieza.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Ropa de cama",
+        icono: "../images/servicios/ropa1.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Cocina equipada",
+        icono: "../images/servicios/cocina1.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Secador de pelo",
+        icono: "../images/servicios/secador.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Plancha con tabla",
+        icono: "../images/servicios/plancha.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Detector de humo",
+        icono: "../images/servicios/humo.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Extintor de incendios",
+        icono: "../images/servicios/extintor.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Botiquin primeros auxilios",
+        icono: "../images/servicios/botiquin.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Asiento para niños",
+        icono: "../images/servicios/asiento.png",
+        isSelected: false
+    ),
+    // ItemModel(
+    //     name: "Trona para bebes",
+    //     icono: "",
+    //     isSelected: false
+    // ),
+    ItemModel(
+        name: "Juegos de mesa",
+        icono: "../images/servicios/juegos.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Bicicletas gratuitas",
+        icono: "../images/servicios/bici.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Gimnasio",
+        icono: "../images/servicios/gym.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Sauna",
+        icono: "../images/servicios/sauna.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Patio o terraza",
+        icono: "../images/servicios/patio.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Servicio de limpieza diario",
+        icono: "../images/servicios/servi.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Caja de seguridad",
+        icono: "../images/servicios/caja.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Servicio de consejeria",
+        icono: "../images/servicios/consejeria.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Mascotas permitidas",
+        icono: "../images/servicios/mascotas.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Alquiler de coches",
+        icono: "../images/servicios/alquiler.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Guia turistica/local",
+        icono: "../images/servicios/guia.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Servicio de niñera",
+        icono: "../images/servicios/ninheras.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Instrumentos musicales",
+        icono: "../images/servicios/musica.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Tours personalizados",
+        icono: "../images/servicios/tours.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Jardin privado",
+        icono: "../images/servicios/jardin.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Cuna",
+        icono: "../images/servicios/cuna.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Servicips de catering",
+        icono: "../images/servicios/catering.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Sistema de sonido",
+        icono: "../images/servicios/sonido.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Servicio de streaming",
+        icono: "../images/servicios/stri.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Kit de bienvenida",
+        icono: "../images/servicios/kit.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Servicio de barco",
+        icono: "../images/servicios/bar.png",
+        isSelected: false
+    ),
+    ItemModel(
+        name: "Descuetos en restaurantes",
+        icono: "../images/servicios/restaurantes.png",
+        isSelected: false
+    ),
   ];
 
   //Funcion para subir estos servicios a firebase
